@@ -1,2 +1,4 @@
 # bun
-js runtime
+```
+npm install -g bun # the last `npm` command you'll ever need
+```
