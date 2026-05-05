@@ -1,0 +1,10 @@
+name: bun-types
+on:
+  workflow_dispatch:
+    
+jobs:
+  have-bun:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install bun
+        uses: oven-sh/setup-bun@main
