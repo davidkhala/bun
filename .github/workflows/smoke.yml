@@ -1,4 +1,4 @@
-name: bun-types
+name: bun-smoke
 on:
   workflow_dispatch:
     
